@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0127/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0127/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說摩訶迦葉度貧母經
+  identifiers:
+    krp: KR6i0127
+    cbeta: T14n0497
+    cbeta_old_id: T14n0497
+    authorityid: CA0002273
+    json_key: T0497
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0497.xml
+    old_id: T14n0497
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0127_000-T.yaml, hash: 'sha256:183de2e876785a82edf5980ba2ee19ad53bacc9063c255e64d9fd73c22b736b5'}
+  - {seq: 1, filename: KR6i0127_001-T.yaml, hash: 'sha256:64bb13e91d7e8a9179e4bafdcd65f2af5494b81db10b6d202c914fc4e19f0722'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0127_000-T.markers.yaml, hash: 'sha256:d0d0b13f1b47382f010562850dba6630b7eaecf52ad826815a3ff5cd77e5e6c4'}
+  - {seq: 1, role: markers, filename: assets/KR6i0127_001-T.markers.yaml, hash: 'sha256:7eb4501deaed2644c7cf8fb879432fc7e43a17b87591e30abb4779b0ce4c10a1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0127_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1692
+  label: 佛說摩訶迦葉度貧母經
+  type: juan
+  level: 1
+hash: sha256:25a683ee30c83e4420cb83f6af16fca6ea0c9e4a3d98c5965a045f6e5b6d3ea2

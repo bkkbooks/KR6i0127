@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0127/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說摩訶迦葉度貧母經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0497.xml
+    old_id: T14n0497
+hash: sha256:183de2e876785a82edf5980ba2ee19ad53bacc9063c255e64d9fd73c22b736b5
