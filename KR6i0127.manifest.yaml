@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0127_000.yaml, hash: 'sha256:183de2e876785a82edf5980ba2ee19ad53bacc9063c255e64d9fd73c22b736b5'}
-  - {seq: 1, filename: KR6i0127_001.yaml, hash: 'sha256:7d7fb0a35bbdec609214dfa6785c0a81ab4aeb768d2d1f7d8c978d52c78f388e'}
+  - {seq: 1, filename: KR6i0127_001.yaml, hash: 'sha256:64bb13e91d7e8a9179e4bafdcd65f2af5494b81db10b6d202c914fc4e19f0722'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0127_001.markers.yaml, hash: 'sha256:e7a3e891154956c3fdcb288ad80517ad81d770120f1bd6b2ebe1e42cd02d9312'}
+  - {seq: 0, role: markers, filename: assets/KR6i0127_000.markers.yaml, hash: 'sha256:c834aa269972d00e4a5ea9b075cad2bcacdb782c02ac578ffd5b3d5f1050f17a'}
+  - {seq: 1, role: markers, filename: assets/KR6i0127_001.markers.yaml, hash: 'sha256:e33ec5175e9bf8164d8a636152b7f103b9ce87a1cd2918f974138ef8c6dc865e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說摩訶迦葉度貧母經
   type: juan
   level: 1
-hash: sha256:13a2c4cc5f338ad5c56177e658df9890852d75d081edfd46cf4d22745cbde6b4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2d8c586c8b997625e573d5944b5aa41bf39d09e9c2ff81714ebb32e7aeed3b7c
